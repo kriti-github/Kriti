@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/67941687/148287618-ec85f96e-84d6-4ca5-
 
 - 👨‍💻 All of my projects are available at my <a href="https://palakyadav1807.github.io/Portfolio/">porfolio Website</a>
 
-- 📫 How to reach me : **palakyadav187@gmail.com**
+- 📫 How to reach me : **kriti@gmail.com**
 
 ## 🚀 Languages and Tools:
 
